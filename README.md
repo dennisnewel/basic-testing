@@ -1,4 +1,4 @@
 # basic-testing
 repo for testing Codeship Basic related stuff
 
-esp. notifications
+esp. notifications and using regex
